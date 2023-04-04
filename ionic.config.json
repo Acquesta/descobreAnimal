@@ -1,0 +1,7 @@
+{
+  "name": "descobreAnimal",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
